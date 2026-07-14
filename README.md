@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Jarrar</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**mking4545/mking4545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about building clean, efficient software
+- 🌱 Always learning new technologies and tools
+- 🤝 Open to collaborating on interesting projects
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📫 Get in Touch
+
+Feel free to reach out — always happy to connect and talk tech.
